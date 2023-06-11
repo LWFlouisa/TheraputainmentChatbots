@@ -9,4 +9,5 @@ A framework for developing back-ends that interoperate with Renpy, and eventuall
 "Narrative-driven games with social commentary"<br />
 "Creating self-learning autonomous narrative agent with distorted memories for episodic releases"<br />
 "Integrating Ren'Py and Ruby for interactive narrative agent"<br />
-"Creating a self-learning narrative agent with distorted memories using Ruby"
+"Creating a self-learning narrative agent with distorted memories using Ruby"<br />
+"Integrating Prolog with Ruby for self-learning narrative agent development"
